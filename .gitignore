@@ -4,3 +4,6 @@
 *.css
 #ignore all file JS
 *.js
+
+#ignore folder node_module
+/node_module/
